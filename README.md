@@ -1,4 +1,4 @@
-# People_Countiong_Object_Detection [20201012 ~ 20201106]
+# People_Countiong_Object_Detection (20201012 ~ 20201106)
 
 ## 2020 수학과 학술 
 
